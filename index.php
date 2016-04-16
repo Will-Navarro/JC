@@ -399,7 +399,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contáctenos</h2>
-                    <h3 class="section-subheading text-primary">Celular 8888-8888.</h3>
+                    <h3 class="section-subheading text-primary">Celular 8594-2624.</h3>
                 </div>
             </div>
             <div class="row">
